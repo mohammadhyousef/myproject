@@ -1,0 +1,21 @@
+{
+  "name": "jason",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "e",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "e"
+  },
+  "keywords": [
+    "e"
+  ],
+  "description": "null",
+  "devDependencies": {
+    "webpack-dev-server": "^5.1.0"
+  }
+}
